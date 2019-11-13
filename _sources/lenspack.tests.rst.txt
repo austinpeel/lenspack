@@ -1,0 +1,17 @@
+lenspack.tests package
+======================
+
+Submodules
+----------
+
+.. toctree::
+
+   lenspack.tests.test_geometry
+
+Module contents
+---------------
+
+.. automodule:: lenspack.tests
+   :members:
+   :undoc-members:
+   :show-inheritance:

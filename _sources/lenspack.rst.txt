@@ -1,0 +1,32 @@
+lenspack package
+================
+
+Subpackages
+-----------
+
+.. toctree::
+
+   lenspack.geometry
+   lenspack.halo
+   lenspack.image
+   lenspack.tests
+   lenspack.theory
+
+Submodules
+----------
+
+.. toctree::
+
+   lenspack.info
+   lenspack.peaks
+   lenspack.shear
+   lenspack.stats
+   lenspack.utils
+
+Module contents
+---------------
+
+.. automodule:: lenspack
+   :members:
+   :undoc-members:
+   :show-inheritance:

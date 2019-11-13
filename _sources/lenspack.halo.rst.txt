@@ -1,0 +1,18 @@
+lenspack.halo package
+=====================
+
+Submodules
+----------
+
+.. toctree::
+
+   lenspack.halo.fitting
+   lenspack.halo.profiles
+
+Module contents
+---------------
+
+.. automodule:: lenspack.halo
+   :members:
+   :undoc-members:
+   :show-inheritance:

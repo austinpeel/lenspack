@@ -1,0 +1,17 @@
+lenspack.geometry.projections package
+=====================================
+
+Submodules
+----------
+
+.. toctree::
+
+   lenspack.geometry.projections.gnom
+
+Module contents
+---------------
+
+.. automodule:: lenspack.geometry.projections
+   :members:
+   :undoc-members:
+   :show-inheritance:

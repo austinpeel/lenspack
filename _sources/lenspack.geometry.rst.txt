@@ -1,0 +1,24 @@
+lenspack.geometry package
+=========================
+
+Subpackages
+-----------
+
+.. toctree::
+
+   lenspack.geometry.projections
+
+Submodules
+----------
+
+.. toctree::
+
+   lenspack.geometry.measures
+
+Module contents
+---------------
+
+.. automodule:: lenspack.geometry
+   :members:
+   :undoc-members:
+   :show-inheritance:
